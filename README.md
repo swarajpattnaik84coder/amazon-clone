@@ -1,5 +1,3 @@
-# amazon-clone
-A responsive front-end clone of Amazon built using HTML5 and CSS3. Features include a navigation bar, search section, hero banner, product cards, and footer. Implemented Flexbox and media queries to ensure a seamless experience across desktop, tablet, and mobile devices.
 # Amazon Front-End Clone
 
 A responsive front-end clone of Amazon built using HTML5 and CSS3. This project recreates the core layout and design of the Amazon homepage, helping me strengthen my understanding of modern web development concepts such as Flexbox, responsive design, and UI structuring.
@@ -25,10 +23,12 @@ A responsive front-end clone of Amazon built using HTML5 and CSS3. This project 
 ## 📸 Screenshots
 
 ### Desktop View
-(Add screenshot here)
+<img width="1914" height="1042" alt="pc" src="https://github.com/user-attachments/assets/289b0e36-2b51-43d9-ae79-8f80c740556f" />
+
 
 ### Mobile View
-(Add screenshot here)
+<img width="412" height="957" alt="phon" src="https://github.com/user-attachments/assets/4d32b9f8-2c0d-41e3-b156-980062946fa5" />
+
 
 ## 📂 Project Structure
 
@@ -58,14 +58,14 @@ Through this project, I learned:
 
 ## 🔗 Live Demo
 
-[View Project](YOUR_DEPLOYMENT_LINK)
+[View Project](https://swarajpattnaik84coder.github.io/amazon-clone/)
 
 ## 💻 Installation
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/amazon-clone.git
+https://github.com/swarajpattnaik84coder/amazon-clone.git
 ```
 
 2. Navigate to the project folder
@@ -78,11 +78,11 @@ cd amazon-clone
 
 ## 📈 Future Improvements
 
-- Add JavaScript functionality
-- Implement product search
-- Add shopping cart interactions
-- Improve mobile navigation
-- Integrate backend APIs
+- JavaScript functionality
+- Implementation of product search
+- Addition of shopping cart interactions
+- Improvement in mobile navigation
+- Integrated backend APIs
 
 ## 👨‍💻 Author
 
@@ -90,8 +90,9 @@ cd amazon-clone
 
 B.Tech Student | Aspiring Full-Stack Developer | DSA & AI/ML Enthusiast
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINKEDIN_PROFILE
+- GitHub: https://github.com/swarajpattnaik84coderE
+- LinkedIn: https://www.linkedin.com/in/swaraj-pattnaik-66a686338/
+- Twitter: https://x.com/PattnaikSw57254
 
 ---
 
